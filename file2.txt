@@ -1,3 +1,6 @@
 hiii welcome to the Git demo....
 
 This change i am making to understand revert command...
+
+Now i am making changes from the github ui in my file 2.
+this is content changes from master branch to form a new branch.
